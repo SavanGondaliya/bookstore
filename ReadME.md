@@ -3,8 +3,8 @@
 ## intruction to install project
 
 1. clone project using *git clone https://github.com/SavanGondaliya/Bookstore.git*
-2. then ***cd backend -> npm install -> npm run dev ***
-3. as well as ***cd frontend -> npm install -> npm run dev ***
+2. then ***cd backend -> npm install -> npm run dev***
+3. as well as ***cd frontend -> npm install -> npm run dev***
 
 ## backend functionality
 
